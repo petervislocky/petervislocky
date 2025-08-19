@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @petervislocky
-- 👀 I’m interested in software development, cybesecurity, and general computer science.
-- ✨ I’m well versed in OOP languages particularly Python and Java.
+- 👀 I’m interested in software development, automation, cybesecurity, and general computer science.
+- 👨‍💼 I work as a Technical Automation Associate at Technical Adventures
+- 🎓 Associate's degree in Computer Science from UCNJ
+- ✨ I work primarily with Python and scripting languages like Bash and PowerShell, and I am learning the Microsoft Power Suite and Azure for work.
 - 💞️ All of my personal, open source projects will be here!
 
 <!---
